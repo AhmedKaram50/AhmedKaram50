@@ -2,7 +2,7 @@
 
 I am <b> Ahmed Karam </b> I am a passionate Front-End Developer. I love creating websites that are aesthetically pleasing and practical
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="435" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/92/bd/1d/92bd1db9b6f2777842750286082200b0.jpg" width="100%" height="200" />
 
  
 
