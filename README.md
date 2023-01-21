@@ -8,7 +8,7 @@ I am <b> Ahmed Karam </b> I am a passionate Front-End Developer. I love creating
   
 # About Me
  
-<img align="right" alt="GIF" src="https://media.tenor.com/a-TsAtfszc8AAAAC/homer-any.gif" width="50%" height="226" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611111842e9d0cb857fc6fca572e7a291abd6e0731c&rid=giphy.gif&ct=g" width="50%" height="226" />
 
 ### About
 
