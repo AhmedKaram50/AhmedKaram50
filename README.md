@@ -4,8 +4,8 @@ I am <b> Ahmed Karam </b> I am a passionate Front-End Developer. I love creating
 
 <!-- <img align="right" alt="GIF" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611111842e9d0cb857fc6fca572e7a291abd6e0731c&rid=giphy.gif&ct=g" width="100%" height="260" /> -->
 
-<!-- <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ExcellentMadeupChital-max-1mb.gif" width="100%" height="260" /> -->
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=790b76117756449aeecf7734062bd2873f259cdbac5f5049&rid=giphy.gif&ct=g" width="100%" height="200" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/ExcellentMadeupChital-max-1mb.gif" width="100%" height="260" />
+<!-- <img align="right" alt="GIF" src="https://media1.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=790b76117756449aeecf7734062bd2873f259cdbac5f5049&rid=giphy.gif&ct=g" width="100%" height="200" /> -->
 
   
 # About Me
