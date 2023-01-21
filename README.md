@@ -4,20 +4,16 @@ I am <b> Ahmed Karam </b> I am a passionate Front-End Developer. I love creating
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="200" />
   
-# About Me \
+# About Me
  
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83976212/153580693-4f9fa262-ff15-47bb-a3a7-976cf3ed3690.gif" width="50%" height="200" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83976212/153580693-4f9fa262-ff15-47bb-a3a7-976cf3ed3690.gif" width="50%" height="300" />
 
-### BR
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on <b> E-Commerce System </b>
+- 🌱 I’m currently learning  <b><a href="https://github.com/ossu/computer-science" target="_blank" rel="noreferrer"> OSSU </a> Curriculum</b>
+- 💬 Ask me about <b> Front-End, E-commerces, JavaScript </b>
+- 📫 How to reach me: **ahmeadkaram2020@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
