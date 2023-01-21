@@ -14,7 +14,7 @@ I am <b> Ahmed Karam </b> I am a passionate Front-End Developer. I love creating
 
 - 🔭 I’m currently working on <b> E-Commerce System </b>
 
-- 🌱 I’m currently learning  <a href="https://github.com/ossu/computer-science" target="_blank" rel="noreferrer"><b> OSSU </b></a> Curriculum
+- 🌱 I’m currently learning  <a href="https://user-images.githubusercontent.com/83976212/153580693-4f9fa262-ff15-47bb-a3a7-976cf3ed3690.gif" target="_blank" rel="noreferrer"><b> OSSU </b></a> Curriculum
 
 - 💬 Ask me about <b> Front-End, E-commerces, JavaScript </b>
 
