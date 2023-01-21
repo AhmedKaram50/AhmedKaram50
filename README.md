@@ -8,13 +8,13 @@ I am <b> Ahmed Karam </b> I am a passionate Front-End Developer. I love creating
   
 # About Me
  
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611111842e9d0cb857fc6fca572e7a291abd6e0731c&rid=giphy.gif&ct=g" width="50%" height="226" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83976212/153580693-4f9fa262-ff15-47bb-a3a7-976cf3ed3690.gif" width="50%" height="226" />
 
 ### About
 
 - 🔭 I’m currently working on <b> E-Commerce System </b>
 
-- 🌱 I’m currently learning  <a href="https://user-images.githubusercontent.com/83976212/153580693-4f9fa262-ff15-47bb-a3a7-976cf3ed3690.gif" target="_blank" rel="noreferrer"><b> OSSU </b></a> Curriculum
+- 🌱 I’m currently learning  <a href="https://github.com/ossu/computer-science" target="_blank" rel="noreferrer"><b> OSSU </b></a> Curriculum
 
 - 💬 Ask me about <b> Front-End, E-commerces, JavaScript </b>
 
